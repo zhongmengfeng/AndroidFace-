@@ -1,0 +1,3 @@
+/Users/yidouco.ltdyellow/Desktop/android studioprogrect/AndroidFace/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+/Users/yidouco.ltdyellow/Desktop/android studioprogrect/AndroidFace/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+/Users/yidouco.ltdyellow/Desktop/android studioprogrect/AndroidFace/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/MegviiFacepp-jni-0.5.2.dir
